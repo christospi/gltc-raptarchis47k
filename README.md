@@ -4,7 +4,7 @@ MSc thesis | code, models and data
 
 > Scripts based on Large-Scale Multi-Label Text Classification on EU Legislation, available at: https://github.com/iliaschalkidis/lmtc-eurlex57k
 
-## Synopsis
+## Abstract
 
 In this study, we engage in legal text classification based on Greek legislation.
 We introduce and make publicly available a novel dataset based on Greek legislation,
