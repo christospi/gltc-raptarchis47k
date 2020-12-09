@@ -1,6 +1,6 @@
 ## Legal Text Classification based on Greek Legislation
 
-MSc thesis | code, models and data
+MSc thesis | data & code
 
 > Scripts based on Large-Scale Multi-Label Text Classification on EU Legislation, available at: https://github.com/iliaschalkidis/lmtc-eurlex57k
 
