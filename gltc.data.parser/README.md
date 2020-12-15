@@ -1,4 +1,4 @@
-### Raptarchis Data Parser
+### GLTC - Raptarchis Data Parser
 
 Developed to generate a prosperous dataset, ideal for the text-classification tasks.  
 Original documents can be found at: http://www.e-themis.gov.gr/
