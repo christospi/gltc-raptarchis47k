@@ -1,7 +1,6 @@
-###Raptarchis Data Parser
+### Raptarchis Data Parser
 
-Developed to generate a prosperous dataset, ideal for the text-classification tasks.
-
+Developed to generate a prosperous dataset, ideal for the text-classification tasks.  
 Original documents can be found at: http://www.e-themis.gov.gr/
 
 Main parsing script: *file_reader.py*
