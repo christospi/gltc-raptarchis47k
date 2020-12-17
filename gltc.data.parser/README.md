@@ -1,16 +1,15 @@
-### GLTC - Raptarchis Data Parser
+### GLTC - "Raptarchis Greek Legal Code" data parser
+
+***
 
 Developed to generate a prosperous dataset, ideal for the text-classification tasks.  
 Original documents can be found at: http://www.e-themis.gov.gr/
 
-Main parsing script: *file_reader.py*
+Main parsing script: *file_reader.py*  
+Also, contains scripts about stats/enhancements etc.
 
-Some notes:
+Some notes when run in interpreter mode:
 
-Better run on interpreter mode. Example:
-
-    # For re-importing modules i.e. imp.reload(ut)
-    import imp
     
     import file_reader as fr
     import utils as ut
@@ -42,7 +41,3 @@ Better run on interpreter mode. Example:
     
     # Remove all duplicate entries
     ut.remove_duplicates()
-    
-    # ----- EXTRA - STATISTICS etc. -----
-    # Write law headers in files (more info at function)
-    ut.show_headers(rn, True)
