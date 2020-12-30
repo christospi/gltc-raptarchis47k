@@ -1,7 +1,7 @@
 ## Legal Text Classification based on Greek Legislation
 
 MSc thesis data & code  
-Document available at: *TBU*
+Document available at: https://pergamos.lib.uoa.gr/uoa/dl/object/2931361
 
 ***
 ### Abstract
