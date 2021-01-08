@@ -12,6 +12,3 @@ consisting of more than 47k official, classified Greek legislation resources. We
 with and evaluate a battery of advanced methods and classifiers, varying from traditional
 machine learning and recurrent models to state-of-the-art transfer learning models.
 
->**Note:**  
-NLP training scripts based on "Large-Scale Multi-Label Text Classification on EU Legislation" project, available at: https://github.com/iliaschalkidis/lmtc-eurlex57k
-
